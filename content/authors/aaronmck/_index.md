@@ -1,16 +1,16 @@
 ---
 # Display name
-name: McKenna Lab
+name: Aaron McKenna
 
 # Username (this should match the folder name)
 authors:
-- admin
+- aaronmck
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Department of Molecular and Systems Biology
+role: Principal Investigator (PI)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://geiselmed.dartmouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: Assistant Professor, Molecular and Systems Biology
 
 interests:
 - Cell fate and lineage
@@ -27,15 +27,15 @@ interests:
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
+#  - course: PhD in Genome Science
+#    institution: University of Washington
+#    year: 2017
+#  - course: MS in Bioinformatics
+#    institution: Boston University
 #    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: BS in Computer Science
+#    institution: Worcester Polytechnic Institute 
+#    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,17 +56,17 @@ social:
   link: https://github.com/mckennalab
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/aaron_mckenna_CV_2019.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-#user_groups:
-
+user_groups:
+- "Principal Investigators"
 ---
 Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
 <br>

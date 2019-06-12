@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "dartmouth_view.jpg"
+hero_media = "tree.jpg"
 
 [design.background]
   # Background color.
