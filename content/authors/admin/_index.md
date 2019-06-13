@@ -18,11 +18,10 @@ organizations:
   url: "https://geiselmed.dartmouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Cell fate and lineage
-- Computational Biology
+- Computational biology
 - Systems biology
 
 #education:
@@ -68,7 +67,7 @@ email: ""
 #user_groups:
 
 ---
-Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
+Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer. 
 <br>
 <br>
-We're looking for interested post-docs or research scientists to come join us at the Geisel School of Medicine at Dartmouth. We accept grad student rotations from the <a href="https://graduate.dartmouth.edu/mcb/">Molecular and Cellular Biology Program</a> and the <a href="https://geiselmed.dartmouth.edu/qbs/">Graduate Program in Quantitative Biomedical Sciences</a>. Students from other programs are welcome to rotate according to the rules of their program.
+We're looking for people who share these interests and are looking for post-docs or research scientists to come join us at the Geisel School of Medicine at Dartmouth. We also accept grad student rotations from the <a href="https://graduate.dartmouth.edu/mcb/">Molecular and Cellular Biology Program</a> and the <a href="https://geiselmed.dartmouth.edu/qbs/">Graduate Program in Quantitative Biomedical Sciences</a>. Students from other programs are welcome to rotate according to the rules of their program.

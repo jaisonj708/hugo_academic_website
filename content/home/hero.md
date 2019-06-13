@@ -42,6 +42,6 @@ hero_media = "tree.jpg"
 
 <p>
 <h5>
-Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
+Every cell is the result of a cell division back through time to the beginnings of life.  We are interested in cells divide to becomes many within an organism and how cells find their ultimate role. This process plays out in both normal development and in diseases such as cancer, and we develop technologies to dissect this process.
 <br>
 </p>
