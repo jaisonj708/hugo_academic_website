@@ -21,9 +21,9 @@ organizations:
 # bio: Assistant Professor, Molecular and Systems Biology
 
 interests:
-- Cell fate and lineage
+- Cell Fate and Lineage
 - Computational Biology
-- Systems biology
+- Systems Biology
 
 #education:
 #  courses:
