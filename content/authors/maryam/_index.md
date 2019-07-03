@@ -48,9 +48,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aaron_mckenna
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=ALmdx44AAAAJ&hl=en
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=ALmdx44AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/mckennalab
@@ -71,4 +71,4 @@ user_groups:
 Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
 <br>
 <br>
-We're looking for interested post-docs or research scientists to come join us at the Geisel School of Medicine at Dartmouth. We accept grad student rotations from the <a href="https://graduate.dartmouth.edu/mcb/">Molecular and Cellular Biology Program</a> and the <a href="https://geiselmed.dartmouth.edu/qbs/">Graduate Program in Quantitative Biomedical Sciences</a>. Students from other programs are welcome to rotate according to the rules of their program.
+We're looking for interested post-docs or research scientists to come join us at the Geisel School of Medicine at Dartmouth. We accept grad student rotations from the <a href="https://graduate.dartmouth.edu/mcb/">Molecular and Cellular Biology Program</a> and the <a href="https://geiselmed.dartmouth.edu/qbs/">Graduate Program in Quantitative Biomedical Sciences</a>. Students from other programs are welcome to rotate according to the rules of their program.ad
