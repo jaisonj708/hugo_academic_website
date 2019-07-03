@@ -53,7 +53,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "info@mckennalab.org"
-phone = "603-650-1866 (office)"
+phone = "603-650-1866 (office), 603-650-1886 (lab)"
 address = "Dartmouth College / Norris Cotton Cancer Center<br>1 Medical Center Drive<br>Williamson Building Level 6, bay 68<br> Lebanon NH, 03756"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
