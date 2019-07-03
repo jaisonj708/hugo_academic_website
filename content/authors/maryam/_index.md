@@ -22,8 +22,8 @@ organizations:
 
 interests:
 - Molecular Biology
-- CRISPR
-- Base editing
+- CRISPR/Cas9 technologies
+- Base Editing
 
 #education:
 #  courses:
