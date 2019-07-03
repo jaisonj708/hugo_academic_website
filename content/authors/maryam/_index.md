@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Faryam Fahti
+name: Maryam Fathi
 
 # Username (this should match the folder name)
 authors:
