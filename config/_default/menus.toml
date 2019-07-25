@@ -28,10 +28,14 @@
   url = "#contact"
   weight = 60
 
-
 [[main]]
   name = "Wiki"
   url = "https://wiki.mckennalab.org"
+  weight = 60
+
+[[main]]
+  name = "Primers"
+  url = "https://primers.mckennalab.org"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
