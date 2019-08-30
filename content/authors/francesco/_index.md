@@ -66,7 +66,7 @@ email: "francesco.e.emiliani.gr@dartmouth.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Rotation Students"
+- "Grad Students"
 ---
 Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
 <br>
