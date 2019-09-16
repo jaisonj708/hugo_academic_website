@@ -17,12 +17,9 @@ organizations:
 - name: Dartmouth College
   url: "https://geiselmed.dartmouth.edu/"
 
-# Short bio (displayed in user profile at end of posts)
-# bio: Assistant Professor, Molecular and Systems Biology
-
 interests:
 - Molecular Biology
-- Injury-free rotation
+- An injury-free rotation
 - Science
 
 #education:
