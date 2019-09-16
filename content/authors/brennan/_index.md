@@ -18,7 +18,7 @@ organizations:
   url: "https://geiselmed.dartmouth.edu/"
 
 interests:
-- Molecular Biology
+- MCB rotation student
 - An injury-free rotation
 - Science
 
