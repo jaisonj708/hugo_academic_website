@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Francesco E. Emiliani
+name: Francesco Emiliani
 
 # Username (this should match the folder name)
 authors:
