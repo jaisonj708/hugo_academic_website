@@ -18,7 +18,7 @@ organizations:
   url: "https://geiselmed.dartmouth.edu/"
 
 interests:
-- QBS rotation student,
+- QBS rotation student
 - An injury-free rotation
 - Science
 
