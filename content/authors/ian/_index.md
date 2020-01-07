@@ -19,7 +19,7 @@ organizations:
 
 interests:
 - Dartmouth Undergrad
-- An injury-free rotation
+- CRISPR/Cas9
 - Science
 
 #education:
