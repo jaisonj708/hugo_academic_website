@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Brennan McEwan
+name: Somer Matar
 
 # Username (this should match the folder name)
 authors:
-- brennan
+- somer
 
 # Is this the primary user of the site?
 superuser: false
@@ -41,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Brennan.C.McEwan.GR@dartmouth.edu'
+  link: 'mailto:Somer.M.Matar.GR@dartmouth.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aaron_mckenna
@@ -58,7 +58,7 @@ social:
 #  link: files/aaron_mckenna_CV_2019.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "Brennan.C.McEwan.GR@dartmouth.edu"
+email: "Somer.M.Matar.GR@dartmouth.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Paige.Salerno.GR@dartmouth.edu
+name: Paige Salerno
 
 # Username (this should match the folder name)
 authors:
