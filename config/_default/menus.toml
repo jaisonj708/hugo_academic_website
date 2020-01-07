@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Wiki"
-  url = "https://github.com/mckennalab/documentation/wiki"
+  url = "https://github.com/mckennalab/documentation/"
   weight = 60
 
 [[main]]
