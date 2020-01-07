@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Brennan McEwan
+name: Ian Hsu
 
 # Username (this should match the folder name)
 authors:
-- brennan
+- ian
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Alumni
+role: Undergrad
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://geiselmed.dartmouth.edu/"
 
 interests:
-- MCB rotation student
+- Dartmouth Undergrad
 - An injury-free rotation
 - Science
 
@@ -41,7 +41,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Brennan.C.McEwan.GR@dartmouth.edu'
+  link: 'mailto:ian.hsu.23@dartmouth.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aaron_mckenna
@@ -58,12 +58,12 @@ social:
 #  link: files/aaron_mckenna_CV_2019.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "Brennan.C.McEwan.GR@dartmouth.edu"
+email: "ian.hsu.23@dartmouth.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- "Grad Students"
+- "Undergrad"
 ---
 Our group intersects computational biology, single-cell sequencing, and CRISPR/Cas9 genome engineering to map cell fate within development and cancer.
 <br>
